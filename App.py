@@ -40,6 +40,10 @@ st.markdown("[🔗 LinkedIn](https://linkedin.com/in/nj1014)")
 st.markdown("[💻 GitHub](https://github.com/nj-1014)")
 
 
+
+st.write("SentimentAI is an AI-powered text analysis tool that analyzes text and identifies whether the sentiment is Positive, Neutral, or Negative.")
+
+
 text = st.text_input("Enter a sentence:")
 
 if st.button("Analyze Sentiment"):
