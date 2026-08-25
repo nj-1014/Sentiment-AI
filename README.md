@@ -19,7 +19,6 @@ It also displays the **compound sentiment score** with a visual progress bar.
 
 ## 📸 Application Preview
 
-### SENTIMENT AI
 ![SentimentAI Input](screenshot1.png)
 
 ### 📊 Sentiment Analysis Result
