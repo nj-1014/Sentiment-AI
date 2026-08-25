@@ -15,6 +15,18 @@ It also displays the **compound sentiment score** with a visual progress bar.
 
 🔗 **[Try SentimentAI](https://sentiment-ai-nj.streamlit.app/)**
 
+
+
+## 📸 Application Preview
+
+### 📝 Enter Text
+![SentimentAI Input](screenshot1.png)
+
+### 📊 Sentiment Analysis Result
+![SentimentAI Result](screenshot2.png)
+
+
+
 ## ✨ Features
 
 - 📝 Analyze user-entered text
