@@ -49,5 +49,5 @@ if st.button("Analyze Sentiment"):
         st.write("Text:", text)
         st.write("Sentiment:", sentiment)
         st.write("Compound Score:", scores["compound"])
-        st.write("NEGATIVE                                                     POSITIVE")
+        st.write("NEGATIVE---------------------------------------POSITIVE")
         st.progress((scores["compound"] +1)/2)
