@@ -21,7 +21,7 @@ def analyze_sentiment(text):
     return sentiment, scores
 
 
-# 🍑 Soft Peach Background
+# ⚫ dark grey Background
 st.markdown("""
 <style>
 .stApp {
