@@ -72,7 +72,7 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 
 ## CREATED BY NJ
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
