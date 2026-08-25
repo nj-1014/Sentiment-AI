@@ -43,3 +43,20 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 | `≥ 0.05` | 😊 Positive |
 | `-0.05 to 0.05` | 😐 Neutral |
 | `≤ -0.05` | 😢 Negative |
+
+
+
+
+🔮 Future Improvements
+
+📊 Display individual positive, neutral, and negative scores
+
+📈 Add sentiment analysis history
+
+🎨 Improve the user interface
+
+🧠 Experiment with machine-learning-based sentiment models
+
+🌐 Add more advanced text analysis features
+
+
