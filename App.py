@@ -49,5 +49,11 @@ if st.button("Analyze Sentiment"):
         st.write("Text:", text)
         st.write("Sentiment:", sentiment)
         st.write("Compound Score:", scores["compound"])
-        st.write("NEGATIVE---------------------------------------POSITIVE")
         st.progress((scores["compound"] +1)/2)
+
+
+
+        st.write("💻 Created By NJ")
+        
+        st.markdown("[🔗 LinkedIn](https://linkedin.com/in/nj1014)")
+st.markdown("[💻 GitHub](https://github.com/nj-1014)")
