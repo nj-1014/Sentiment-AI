@@ -1,4 +1,4 @@
-# 🤖 SentimentAI
+# 🤖 Sentiment AI
 
 A simple AI-powered sentiment analysis web application built with **Python, NLTK, VADER, and Streamlit**.
 
