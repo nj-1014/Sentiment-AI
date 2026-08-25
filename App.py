@@ -25,7 +25,7 @@ def analyze_sentiment(text):
 st.markdown("""
 <style>
 .stApp {
-    background-color: #FFF1E6;
+    background-color: #121212;
 }
 </style>
 """, unsafe_allow_html=True)
