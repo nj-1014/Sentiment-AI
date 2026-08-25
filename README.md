@@ -59,7 +59,7 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 
 
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 📊 Display individual positive, neutral, and negative scores
 
