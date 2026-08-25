@@ -72,3 +72,12 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 🌐 Add more advanced text analysis features
 
 ## CREATED BY NJ
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nj1014/)
+
+</div>
+
