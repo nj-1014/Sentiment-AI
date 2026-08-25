@@ -19,7 +19,7 @@ It also displays the **compound sentiment score** with a visual progress bar.
 
 ## 📸 Application Preview
 
-### 📝 Enter Text
+### SENTIMENT AI
 ![SentimentAI Input](screenshot1.png)
 
 ### 📊 Sentiment Analysis Result
@@ -59,7 +59,7 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 
 
 
-🔮 Future Improvements
+##🔮 Future Improvements
 
 📊 Display individual positive, neutral, and negative scores
 
@@ -71,4 +71,4 @@ The `compound` score ranges from **-1 to +1** and is used to determine the overa
 
 🌐 Add more advanced text analysis features
 
-
+## CREATED BY NJ
